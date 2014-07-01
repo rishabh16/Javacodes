@@ -1,4 +1,8 @@
 import java.io.*;
+/**
+ * This program prints out all digits of entered number
+ * 
+ * */
 class Digit
 {
 	public static void main(String args[]) throws IOException
